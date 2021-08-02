@@ -2,6 +2,8 @@
 
 I'm a structural engineer 🏗, hacking together the next digital transformation. Whenever I see the opportunity to make the boring stuff cool again, I'm into it! I'm very eager to learn new skills 👨‍💻. Many attempts have gone into creating a diary to keep up all the learning. That's what my Digital Garden 🌳 is all about, an attempt to gather ideas, side projects, blog posts and so much more. Find me on [LinkedIn](https://www.linkedin.com/in/trensongilles/), [Unsplash](https://unsplash.com/@b0hr) and my personal Digital Garden [gilles.is](https://gilles.is) 🌳 to learn more about me.
 
+<img src="https://source.unsplash.com/user/b0hr" style="max-height: 300px; object-fit: cover;"/>
+
 <!--
 **rebot/rebot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
